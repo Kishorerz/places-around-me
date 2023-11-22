@@ -32,7 +32,7 @@ create static folder inside the static create html folder inside it create html 
 ```
 
 ## Output:
-![output](myproj/static/html/kishore-hometown.png)
+![output](https://github.com/Kishorerz/places-around-me/assets/144451216/c0280fc6-9c8b-4a24-bfe6-09e4651fcba5)
 
 ## Result:
 program created sucessfully and executed successfully
